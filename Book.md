@@ -400,6 +400,7 @@ Only included the changed code
     move_thread.join().unwrap();
     collision_thread.join().unwrap();
 ```
+![image](https://github.com/user-attachments/assets/609f28ee-cd75-48ec-855d-3b06ecb32720)
 
 
 ## Reflection
